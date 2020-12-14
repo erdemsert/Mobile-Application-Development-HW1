@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ErdemSert_HW1</string>
+
+   <string name="personalInfo"> The Personal Information</string>
+
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="Age">Age:</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+
+    <string name="Hintname">Enter your name:</string>
+    <string name="Hintsurname">Enter your surname:</string>
+    <string name="Hintage">Enter your age:</string>
+    <string name="Hintheight">Enter your height:</string>
+    <string name="Hintweight">Enter your weight:</string>
+
+
+    <string name="dailyCalorie">Daily Calorie Requirement Information</string>
+    <string name="CalorieTitle">Daily Calorie Requirement Calculation</string>
+
+    <string name="gender">Gender:</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+
+    <string name="DisplayInfo">Dısplay Informatıon</string>
+    <string name="CalculateCalorie">Calculate Calorıe</string>
+    <string name="back">BACK</string>
+
+    <string name="Profile">The Personal Profile</string>
+
+    <string name="foodTitle">Which Food Do You Like</string>
+
+    <string name="Chichken">Chichken</string>
+    <string name="Pizza">Pizza</string>
+    <string name="Hamburger">Hamburger</string>
+
+    <string name="tvSpinner">How often do you do sports</string>
+
+    <array name="sport">
+        <item>Never</item>
+        <item>Sometimes</item>
+        <item>Often</item>
+        <item>Always</item>
+    </array>
+ <string name="result">RESULT</string>
+
+</resources>
